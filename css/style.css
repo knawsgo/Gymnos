@@ -1,0 +1,25 @@
+/* .header{
+    background-color: red;
+} */
+.header h1{
+    color: blue;
+    text-align: left;
+    font-size: 25px;
+    padding-left: 50px;
+    height: auto; 
+}
+
+.header ul li{
+    list-style-type: none;
+    display: inline;
+    padding-right: 50px;
+    /* margin-bottom: 50px; */
+}
+
+.column{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
